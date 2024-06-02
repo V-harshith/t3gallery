@@ -1,4 +1,4 @@
-- [] deploy the site(vercel)
+- [x] deploy the site(vercel)
 - [] develop basic ui
 - [] setup database
 - [] attach database to ui
